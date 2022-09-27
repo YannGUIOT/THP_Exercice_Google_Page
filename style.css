@@ -33,7 +33,7 @@ header
 	display: flex;
 	flex-direction: row;
 	justify-content: flex-end;
-	column-gap: 15px;
+	column-gap: 10px;
 }
 
 section
@@ -64,6 +64,7 @@ header a
 
 #Carre
 {
+	margin-left: 12px;
 	margin-top: -12px;
 	width: 40px;
 	height: 40px;
@@ -79,9 +80,9 @@ header a
 {
 	margin-top: -8px;
 	margin-right: 20px;
-	height: 30px;
-	width: 30px;
-	border-radius: 15px;
+	height: 32px;
+	width: 32px;
+	border-radius: 16px;
 	background-color: lightskyblue;
 }
 
@@ -160,7 +161,7 @@ header a
 
 .Annexes
 {
-	margin-top: 15px;
+	margin-top: 12px;
 	font-size: 13px;
 }
 
