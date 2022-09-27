@@ -28,9 +28,8 @@ body
 header
 {
 	height: 50px;
-	margin-top: 15px;
+	margin-top: 22px;
 	font-size: 13px;
-
 	display: flex;
 	flex-direction: row;
 	justify-content: flex-end;
@@ -39,7 +38,7 @@ header
 
 section
 {
-	margin-top: -90px;
+	margin-top: -117px;
 	height: 280px;
 	display: flex;
 	flex-direction: column;
@@ -50,7 +49,7 @@ footer
 {
 	margin-bottom: -27px;
 	font-family: RobotoLight;
-	height: 100px;
+	height: 95px;
 	background-color: #f0f0f0;
 	color: grey;
 	font-size: 15px;
@@ -96,7 +95,6 @@ header a
 	align-items: center;
 	margin-top: 22px;
 	width: 582px;
-	height: 44px;
 	border: 1px solid lightgray;
 	border-radius: 25px;
 }
@@ -116,14 +114,14 @@ header a
 
 #Loupe
 {
-	margin-top: 2px;
+	margin-top: 4px;
 	margin-left: 2px;
 }
 
 #Micro
 {
 	margin-right: 7px;
-	margin-top: 4px;
+	margin-top: 6px;
 }
 
 .Boutons
@@ -185,7 +183,7 @@ footer a
 
 #Footer1
 {
-	height: 35px;
+	height: 16%;
 	padding-left: 30px;
 }
 
