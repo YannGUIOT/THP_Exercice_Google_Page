@@ -62,7 +62,8 @@ header a
 	color: black;
 }
 
-#Carre
+
+#AppGoogle
 {
 	margin-left: 12px;
 	margin-top: -12px;
@@ -71,7 +72,7 @@ header a
 	border-radius: 20px;
 }
 
-#Carre:hover
+#AppGoogle:hover
 {
 	background-color: #f0f0f0;
 }
@@ -234,7 +235,7 @@ footer img
 	position: absolute;
 	top: 30px;
 	left: 50%;
-	transform: translateX(-50%); /* centrage horizontal  */
+	transform: translateX(-65%); /* centrage horizontal  */
 	z-index: 1; /* affiche par dessus les autres éléments */
 	white-space: nowrap;  /* empèche le retour à la ligne*/
 	padding: 6px 12px;
